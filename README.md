@@ -5,4 +5,3 @@ Enthusiastic software developer. I love to learn new stuff on web technologies a
 ### My stack
 - 🔭 I’m currently working on `PHP`, `Symfony`,  `MySQL`
 - 🌱 I’m currently learning NoSQL databases (`redis`, `mongodb`)
-- ⚡ Fun fact: PHP is supposed to be dead... Really ?
